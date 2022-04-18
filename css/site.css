@@ -5,6 +5,12 @@
     --white-color:     #dff3e4;
 }
 
+.logoFont {
+    font-family: 'Krona One', sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
+
 body {
     color: var(--dark-color);
 }
